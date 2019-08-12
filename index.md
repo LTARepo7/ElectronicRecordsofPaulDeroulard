@@ -1,37 +1,53 @@
-## Welcome to GitHub Pages
+## Electronic Case File of Paul Deroulard
 
-You can use the [editor on GitHub](https://github.com/LTARepo7/ElectronicRecordsofPaulDeroulard/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Description
+- 46 years old
+- Brown/Grey Hair 
+- 5'11
+- 140 lbs
+- No known health conditions
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Cause of Death
+- Heart Attack
+- Fall
 
-### Markdown
+### Financial Status
+- No known debts
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Marital Status
+- Divorced (Jennifer "Jenny" Castelle)
 
-```markdown
-Syntax highlighted code block
+### Political Affiliation
+- Independent
 
-# Header 1
-## Header 2
-### Header 3
+### Toxicology Report
+- Being processed at the request of Virginia Castelle, no foul play determined by investigator
 
-- Bulleted
-- List
+### Employment
+- Running Politician
 
-1. Numbered
-2. List
+### Living Relatives
+- Madame Mary Deroulard (Mother)
 
-**Bold** and _Italic_ and `Code` text
+### Residents in Household
+- Madame Mary Deroulard 
+- Virginia Castelle 
 
-[Link](url) and ![Image](src)
-```
+### Night of his Death
+- Attended a party he was hosting in his home, found deceased in his Study the next morning by Virginia Castelle
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#### People Verified in Attendance 
+Paul's 4 Assistants:
+- Maria (PA1)
+- John (PA2)
+- Roger (PA3)
+- Muhammad (PA4)
+- Pharmacist Wilson
+- Allard
+- Virginia Castelle
+- Madame Mary Deroulard
+- Caterers
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LTARepo7/ElectronicRecordsofPaulDeroulard/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
